@@ -1,0 +1,7 @@
+import url('https://font.googleapis.com/css?family=Roboto');
+
+body{
+  font-family: 'Roboto' , sans-serif;
+  background: url('../img/real.png') no-repeat center center fixed;
+  background-size: cover;
+}
